@@ -1,0 +1,7 @@
+body {
+    background-color: #e6e6e6;
+}
+.btn:focus,.btn:active {
+    outline: none !important;
+    box-shadow: none;
+ }
